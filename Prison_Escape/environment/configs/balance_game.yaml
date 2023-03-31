@@ -1,0 +1,55 @@
+seed: 0
+epsilon: 0.0
+heuristic_type: Normal
+
+terrain: null
+spawn_mode: corner
+random_cameras: False
+camera_file_path: Prison_Escape/environment/camera_locations/original_and_more.txt
+mountain_locations:
+  # - 400, 300
+  - 1600, 1800
+camera_range_factor: 1.0
+observation_terrain_feature: False
+random_hideout_locations: False
+spawn_range: 350
+helicopter_battery_life: 200
+helicopter_recharge_time: 40
+num_search_parties: 5
+num_helicopters: 1
+terrain_map: Prison_Escape/environment/forest_coverage/map_set/2_darker.npy
+step_reset: True
+camera_net_bool: False
+num_random_known_cameras: 25
+num_random_unknown_cameras: 25
+min_distance_from_hideout_to_start: null
+min_distance_from_hideout_to_start: False
+include_camera_at_start: True
+include_start_location_blue_obs: True
+store_last_k_fugitive_detections: True
+search_party_speed: 6.5
+helicopter_speed: 127
+detection_factor: 4.0  # Prisoner-Low: 3.0, Prisoner-Mod: 4.0, Prisoner-High: 7.0
+known_hideout_locations:
+  - 323, 1623
+  - 1804, 737
+  - 317, 2028
+  - 819, 1615
+  - 1145, 182
+  - 1304, 624
+  - 234, 171
+  - 2398, 434
+  - 633, 2136
+  - 1590, 2
+
+unknown_hideout_locations:
+  - 376, 1190
+  - 909, 510
+  - 397, 798
+  - 2059, 541
+  - 2011, 103
+  - 901, 883
+  - 1077, 1445
+  - 602, 372
+  - 80, 2274
+  - 279, 477
