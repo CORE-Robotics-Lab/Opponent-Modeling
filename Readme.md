@@ -1,12 +1,12 @@
-# Learning Models of Adversarial Agent Behavior under Partial Observability
+# [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
 
 ### Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, Rohan Paleja, Letian Chen, and Matthew C. Gombolay
 
-### (IROS 2023 Under Review)
+### (To Appear at IROS 2023)
 
 ---
 
-We present two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction as discussed in the paper.
+We present two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction as discussed in the paper. This repository contains the code to run the environments and collect the datasets. The codebase for training models is located [here](https://github.com/CORE-Robotics-Lab/GrAMMI). 
 
 ### Installation
 After cloning the repository, please use the provided conda environment (`environment.yml`) file to install dependencies:
@@ -68,3 +68,21 @@ the end of the episode. All values are stored for every timestep of each rollout
 [//]: # (In our paper, we describe two datasets for Narco Traffic Interdiction. We obtain this by varying the parameters as specified)
 
 [//]: # (in the simulator config file: `Prison_Escape/environment/configs/balance_game.yaml`)
+---
+## Citation
+
+If you find our code or paper is useful, please consider citing:
+
+```bibtex
+@inproceedings{ye2023grammi,
+  title={Learning Models of Adversarial Agent Behavior under Partial
+Observability},
+  author={Ye, Sean and Natarajan, Manisha and Wu, Zixuan and Paleja, Rohan and Chen, Letian and Gombolay, Matthew},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2023}
+}
+```
+
+## License
+
+This code is distributed under an [MIT LICENSE](LICENSE).
