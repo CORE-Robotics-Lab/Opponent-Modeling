@@ -1,4 +1,8 @@
-# [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
+# Prison Escape and Narco Traffic Interdiction: Large Scale Adversarial Tracking Environments
+
+---
+
+## [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
 
 ### Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, Rohan Paleja, Letian Chen, and Matthew C. Gombolay
 
@@ -6,7 +10,14 @@
 
 ---
 
-We present two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction as discussed in the paper. This repository contains the code to run the environments and collect the datasets. The codebase for training models is located [here](https://github.com/CORE-Robotics-Lab/GrAMMI). 
+## [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
+
+### Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+
+### (To Appear at MRS 2023)
+---
+
+We present two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction as discussed in the paper. This repository contains the code to run the environments and collect the datasets. The codebase for training models for GrAMMI is located [here](https://github.com/CORE-Robotics-Lab/GrAMMI) and the codebase for training CADENCE will be released soon.
 
 ### Installation
 After cloning the repository, please use the provided conda environment (`environment.yml`) file to install dependencies:
