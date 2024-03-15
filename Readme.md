@@ -14,13 +14,12 @@ This repository contains code for two large scale adversarial tracking environme
 3. [Adversarial Search and Tracking with Multiagent Reinforcement Learning in Sparsely Observable Environment](https://arxiv.org/pdf/2306.11301.pdf)
    - **Authors:** Zixuan Wu*, Sean Ye*, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
    - **Published in:** International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2023)
-4. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
+4. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/pdf/2307.06244.pdf)
    - **Authors:** Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
    - **Published in:** International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2023)
 5. Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games
    - **Status:** Under Review
    - [Code + Supplementary](https://github.com/ChampagneAndfragrance/Diffusion_RL)
-
 
 
 ### Installation
