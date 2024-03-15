@@ -1,23 +1,26 @@
 # Prison Escape and Narco Traffic Interdiction: Large Scale Adversarial Tracking Environments
+
 ---
+
 This repository contains code for two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction. It includes the code to run the environments and collect datasets used for Adversarial Tracking.
 
 ## Papers Utilizing Domain:
 
 1. [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
+   - **Authors:** Sean Ye*, Manisha Natarajan*, Zixuan Wu*, Rohan Paleja, Letian Chen, and Matthew Gombolay
+   - **Published in:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)
+   - [Code Repo](https://github.com/CORE-Robotics-Lab/GrAMMI)
 
-   Authors: Sean Ye*, Manisha Natarajan*, Zixuan Wu*, Rohan Paleja, Letian Chen, and Matthew Gombolay <br>
-   [Code Repo](https://github.com/CORE-Robotics-Lab/GrAMMI)
 3. [Adversarial Search and Tracking with Multiagent Reinforcement Learning in Sparsely Observable Environment](https://arxiv.org/pdf/2306.11301.pdf)
+   - **Authors:** Zixuan Wu*, Sean Ye*, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+   - **Published in:** International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2023)
+4. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
+   - **Authors:** Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+   - **Published in:** International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2023)
+5. Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games
+   - **Status:** Under Review
+   - [Code + Supplementary](https://github.com/ChampagneAndfragrance/Diffusion_RL)
 
-   Authors: Zixuan Wu*, Sean Ye*, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
-5. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
-
-   Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
-7. Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games
-
-   Under Review <br>
-   [Code Repo](https://github.com/ChampagneAndfragrance/Diffusion_RL)
 
 
 ### Installation
