@@ -1,23 +1,24 @@
 # Prison Escape and Narco Traffic Interdiction: Large Scale Adversarial Tracking Environments
-
 ---
+This repository contains code for two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction. It includes the code to run the environments and collect datasets used for Adversarial Tracking.
 
-## [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
+## Papers Utilizing Domain:
 
-### Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, Rohan Paleja, Letian Chen, and Matthew C. Gombolay
+1. [Learning Models of Adversarial Agent Behavior under Partial Observability](https://arxiv.org/pdf/2306.11168.pdf)
 
-### (To Appear at IROS 2023)
+   Authors: Sean Ye*, Manisha Natarajan*, Zixuan Wu*, Rohan Paleja, Letian Chen, and Matthew Gombolay <br>
+   [Code Repo](https://github.com/CORE-Robotics-Lab/GrAMMI)
+3. [Adversarial Search and Tracking with Multiagent Reinforcement Learning in Sparsely Observable Environment](https://arxiv.org/pdf/2306.11301.pdf)
 
----
+   Authors: Zixuan Wu*, Sean Ye*, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+5. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
 
-## [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/abs/2307.06244)
+   Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+7. Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games
 
-### Authors: Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
+   Under Review <br>
+   [Code Repo](https://github.com/ChampagneAndfragrance/Diffusion_RL)
 
-### (To Appear at MRS 2023)
----
-
-We present two large scale adversarial tracking environments: Prison Escape and Narco Traffic Interdiction as discussed in the paper. This repository contains the code to run the environments and collect the datasets. The codebase for training models for GrAMMI is located [here](https://github.com/CORE-Robotics-Lab/GrAMMI) and the codebase for training CADENCE will be released soon.
 
 ### Installation
 After cloning the repository, please use the provided conda environment (`environment.yml`) file to install dependencies:
