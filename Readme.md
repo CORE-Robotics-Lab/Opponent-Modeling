@@ -17,7 +17,9 @@ This repository contains code for two large scale adversarial tracking environme
 4. [Diffusion Based Multi-Agent Adversarial Tracking](https://arxiv.org/pdf/2307.06244.pdf)
    - **Authors:** Sean Ye, Manisha Natarajan, Zixuan Wu, and Matthew Gombolay
    - **Published in:** International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2023)
-
+5. Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games
+   - **Status:** Under Review
+   - [Code](https://github.com/ChampagneAndfragrance/Diffusion_RL)
 
 ### Installation
 After cloning the repository, please use the provided conda environment (`environment.yml`) file to install dependencies:
